@@ -462,7 +462,7 @@ blockquote {
   .header.navbar_fixed {
     position: fixed;
     width: 100%;
-    background: #ffffff;
+    /* background: #ffffff; */
     z-index: 100;
     box-shadow: 0 2px 28px 0 rgba(1, 6, 33, 0.06);
     animation: 500ms ease-in-out 0s normal none 1 running fadeInDown; }
@@ -491,7 +491,7 @@ blockquote {
       opacity: 1;
       bottom: -12px; }
   .header .navbar-expand-lg {
-    background-color: #ffffff;
+    /* background-color: #ffffff; */
     display: flex;
     justify-content: space-between;
     align-items: center;
